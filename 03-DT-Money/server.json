@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "description": "Salario",
+      "price": 452,
+      "category": "Dinheiro",
+      "type": "income",
+      "createdAt": "2023-01-31T18:16:58.490Z",
+      "id": 1
+    },
+    {
+      "description": "Faculdade Lara",
+      "price": 50,
+      "category": "Pagamaneto",
+      "type": "outcome",
+      "createdAt": "2023-01-31T18:18:17.749Z",
+      "id": 2
+    }
+  ]
+}
